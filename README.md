@@ -1,4 +1,4 @@
-# CRA deployed at https://dpeserovic.github.io/safety-precautions-lobe-ai/index.html
+### CRA deployed at https://dpeserovic.github.io/safety-precautions-lobe-ai/index.html
 
 ![Web Bootstrap header](assets/header.jpg)
 
