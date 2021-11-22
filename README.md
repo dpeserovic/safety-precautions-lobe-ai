@@ -1,3 +1,5 @@
+# CRA deployed at https://dpeserovic.github.io/safety-precautions-lobe-ai/index.html
+
 ![Web Bootstrap header](assets/header.jpg)
 
 [Lobe](http://lobe.ai/) is a free, easy to use app that has everything you need to bring your machine learning ideas to life.
